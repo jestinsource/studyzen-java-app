@@ -43,3 +43,10 @@ StudyZen/
 │ └── login_log.txt
 │
 └── README.md
+
+## 🛠 How to Run
+
+1. **Clone or Download** the repository:
+   ```bash
+   git clone https://github.com/jestinsource/StudyZen.git
+   cd StudyZen
